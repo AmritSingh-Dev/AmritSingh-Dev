@@ -1,5 +1,4 @@
 ![Grey Minimalist Corporate Personal Profile LinkedIn Banner (5)](https://github.com/user-attachments/assets/2cf1a257-71c0-4c4f-9a34-3ed70494e596)
-# 👋 Welcome to My GitHub Profile!
 
 ## About Me
 Hello! I'm a **UK-based Software Developer**, my journey into coding began during my BSc in Music Technology, where I was introduced to coding through the visual language **Max MSP**. Since then, I've developed an interest in software development, which inspired my career transition into tech. I'm currently pursuing an MSc in Computer Science at **MMU**, focusing on enterprise programming, database systems, and UX design.
