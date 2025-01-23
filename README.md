@@ -6,8 +6,7 @@ Hello! I'm a **UK-based Software Developer**, my journey into coding began durin
 I'm actively seeking a front-end web development role/placement, with a focus on working with Java or JavaScript. I would love the opportunity to work closely with a small team and contribute meaningfully from the start. If you're hiring, I would love to hear from you!
 
 ## Tech Stack
-  Proficient in **Java**, **Python**, **JavaScript (jQuery, React, React Native)**, **HTML**, **CSS**, **MySQL**, and **SQLite**.  
-  Experienced with frameworks like **Spring**, **Hibernate**, and tools such as **Maven**, **JDBC**, and **IntelliJ IDEA**.  
+  Proficient in **Java**, **Python**, **JavaScript**, **HTML**, **CSS**, **MySQL**, and **SQLite**.  
   Comfortable using **Visual Studio Code** for front-end development and **Eclipse** for Java.
   
 Thanks for stopping by! Let's build something amazing together. 🚀
