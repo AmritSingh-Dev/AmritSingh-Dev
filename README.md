@@ -7,7 +7,7 @@ I'm actively seeking a front-end web development role/placement, with a focus on
 
 ## Tech Stack
   Proficient in **Java**, **Python**, **JavaScript**, **PostgreSQL**, **HTML**, **CSS**, **MySQL**, and **SQLite**.  
-  Comfortable using **Visual Studio Code** for front-end development and **Eclipse** for Java.
+  Comfortable using **VS Code** for front-end development and **Eclipse** for Java.
   
 Thanks for stopping by! Let's build something amazing together. 🚀
 
