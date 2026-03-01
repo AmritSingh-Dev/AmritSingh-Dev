@@ -3,7 +3,7 @@
 ## About Me
 Hello! I'm a **UK-based Software Developer**, my journey into coding began during my BA in Music Technology, where I was introduced to programming through the visual language **Max MSP**. Since then, I've developed an avid interest in software development, which inspired my career transition into tech. I'm currently pursuing an MSc in Computer Science at **MMU**, focusing on enterprise programming, database systems, and UX design.
 
-I'm actively seeking a front-end web development role/placement, with a focus on working with Java or JavaScript. I would love the opportunity to work closely with a small team and contribute meaningfully from the start. If you're hiring, I would love to hear from you!
+I'm actively seeking a front-end or full stack web development role/placement, with a focus on working with Java or JavaScript. I would love the opportunity to work closely with a small team and contribute meaningfully from the start. If you're hiring, I would love to hear from you!
 
 ## Tech Stack
   Proficient in **Java**, **Python**, **JavaScript**, **PostgreSQL**, **HTML**, **CSS**, **MySQL**, and **SQLite**.  
