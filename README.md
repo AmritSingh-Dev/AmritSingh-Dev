@@ -6,7 +6,7 @@ Hello! I'm a **UK-based Software Developer**, my journey into coding began durin
 I'm actively seeking a front-end or full stack web development role, with a focus on working with Java or JavaScript. I would love the opportunity to work closely with a small team and contribute meaningfully from the start. If you're hiring, I would love to hear from you!
 
 ## Tech Stack
-  Proficient in **Java**, **Python**, **JavaScript**, **PostgreSQL**, **HTML**, **CSS**, **MySQL**, and **SQLite**.  
+  Proficient in **Java**, **C#**, **Python**, **JavaScript**, **PostgreSQL**, **HTML**, **CSS**, **MySQL**, and **SQLite**.  
   
 Thanks for stopping by! Let's build something amazing together. 🚀
 
